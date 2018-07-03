@@ -1,0 +1,17 @@
+{
+  "name": "decorators-demo",
+  "version": "1.0.0",
+  "description": "A demo of Decorators in modern JS",
+  "main": "index.html",
+  "author": "Xavier Cambar",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-preset-env": "^1.7.0",
+    "parcel": "^1.9.4"
+  },
+  "scripts": {
+    "start": "parcel serve"
+  }
+}
